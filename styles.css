@@ -1,0 +1,54 @@
+#img-div {
+    width: 60%;
+    height: 60%;
+    display: block;
+    margin: auto;
+    border: 3px rgb(126, 126, 126) solid;
+    padding: 1px;
+}
+
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+figcaption {
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(221, 221, 221);
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+}
+
+#tribute-info {
+    font-size: 1.1em;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.title, .subtitle{
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: 200;
+    font-size: 20px;
+}
+
+footer {
+    margin: 40px auto 10px auto;
+    width: 70%;
+    height: 50px;
+    background-color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+}
